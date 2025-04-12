@@ -1,0 +1,84 @@
+.logo{
+    width: 20px;
+    height: 20px;
+    margin-bottom: 5px;
+    border: 0px solid #27AE60;
+}
+.us{
+    background: linear-gradient(to right, #0ACEFE,#2699FB);
+}
+header{
+    position: sticky;
+    top: 0;
+    background-color: white;
+}
+
+.btn-outer{
+    margin-top: 10px;
+}
+.banner-containt h1{
+    font-size: 52px;
+    font-weight: 700;
+}
+.banner-containt h1 span{
+    color: #2699FB;
+}
+.banner-containt ul{
+    list-style: none;
+    
+}
+.banner-containt li{
+    font-size: 20px;
+}
+.banner-containt p{
+    font-size: 25px;
+
+}
+.banner-containt div button{
+    width: 50%;
+
+}
+.banner-btn{
+    margin-top: 30px;
+    justify-content: flex-start;
+}
+.btn-primary{
+    background: linear-gradient(to right, #0ACEFE,#2699FB);
+}
+.bannerform{
+    padding: 40px;
+}
+.bannerform h3{
+    font-size:18px ;
+    font-weight: 700;
+}
+.register button{
+    width: 100%;
+}
+.countersection h2{
+    font-size: 30px;
+    font-weight: 700;
+    color: #2699FB;
+}
+.modal-body button{
+    width: 100%;
+}
+.highlights-section{
+    background-color: #F7FAFF;
+}
+.highlights-section h2{
+    font-size: 36px;
+    font-weight: 700;
+    
+}
+.highlights-section p{
+    font-size: 20px;
+}
+.item div h4{
+    font-size: 16pxpx;
+}
+.bnw button{
+    width: 60%;
+    margin-left: 225px;
+}
+
